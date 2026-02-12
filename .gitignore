@@ -1,0 +1,11 @@
+# .NET / Rider / VS
+bin/
+obj/
+*.user
+*.csproj.user
+*.suo
+*.userprefs
+.idea/
+.vscode/
+Properties/launchSettings.json
+appsettings.*.json    
